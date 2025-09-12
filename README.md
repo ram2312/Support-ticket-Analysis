@@ -8,7 +8,7 @@ A company receives thousands of customer support tickets daily but lacks the too
 
 # Key Insights and Impact
 My analysis transformed raw, unstructured text data into measurable insights, which can be directly used by support managers and product teams.
-Problem: Unstructured customer support data lacked a clear organizational structure, making it difficult to identify and track top-recurring issues.
+* Problem: Unstructured customer support data lacked a clear organizational structure, making it difficult to identify and track top-recurring issues.
 Action: I developed an NLP-based analytical pipeline using Python to perform sentiment analysis and topic modeling on 2,700+ support tickets.
 Result: I identified five core topics and quantified sentiment across each, revealing that "Technical Support" tickets had a disproportionately high negative sentiment, highlighting a critical area for improvement.
 Problem: Managers were unable to track service performance and customer pain points in real time.
