@@ -29,5 +29,6 @@ My analysis transformed raw, unstructured text data into measurable insights, wh
 * PowerBI_Dashboard_Screenshot.png: A screenshot of the final dashboard.
 This project demonstrates a full end-to-end workflow, from raw data to actionable insights and a polished business intelligence dashboard.
 
-<img width="908" height="507" alt="image" src="https://github.com/user-attachments/assets/afdee5b5-4a73-4187-9924-c28bcd386529" />
+<img width="1308" height="746" alt="image" src="https://github.com/user-attachments/assets/9a074e24-78db-4d00-b84a-ddfb9ef3ed26" />
+
 
